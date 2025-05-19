@@ -1,0 +1,6 @@
+actualziar cambios en git una vez ya subido
+es con
+git init
+git add .
+git commit -m "un comentario"
+git push origin main

@@ -1,0 +1,8 @@
+// El proyecto o carpetaa Backend se ejecuta con npm start
+//El proyecto o carpeta Fronted se ejecta con npm run dev
+//Para cambiar de carpetas, estas en la principal y quieres ingresar al backend: es con ... :
+cd backend
+igualmente para el Fronted
+cd Fronted
+pero para salir de esas carpetas ponemos lo siguiente:
+cd ..
